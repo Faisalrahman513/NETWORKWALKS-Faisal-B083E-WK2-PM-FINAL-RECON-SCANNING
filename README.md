@@ -31,7 +31,7 @@ This repository contains my Week 2 practical report for the Cybersecurity intern
 
 ## Report
 
-The full write up, including screenshots, risk analysis and recommendations, is in ./W2-PM-FINAL.pdf
+The full write up, including screenshots, risk analysis and recommendations, is in ./W2-PM-FINAL .pdf
 
 ## Disclaimer
 
